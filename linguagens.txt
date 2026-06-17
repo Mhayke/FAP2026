@@ -1,0 +1,20 @@
+☕ Java & Spring Boot
+
+Tenho experiência prática no desenvolvimento de aplicações corporativas utilizando Java com o ecossistema Spring Boot. Crio APIs RESTful robustas, seguindo os princípios do Spring Framework para injeção de dependências, segurança e persistência de dados.
+Trabalho com Spring Data JPA para integração com bancos relacionais, Meu foco está em escrever código limpo, bem estruturado e com boas práticas de programação orientada a objetos.
+
+💎 Ruby on Rails
+
+Possuo conhecimento prático em Ruby on Rails, desenvolvendo aplicações web completas com produtividade e agilidade. Também tenho experiência com RSpec para testes automatizados.
+Trabalho com a arquitetura MVC (Model-View-Controller), construindo APIs e aplicações. Utilizo o Active Record como ORM para manipulação de banco de dados, além de recursos como migrações, validações e associações entre modelos. 
+
+🐘 PostgreSQL
+
+Possuo conhecimento prático com PostgreSQL como banco de dados relacional principal, Tenho conhecimento em modelagem de dados, criação de tabelas, índices e relacionamentos.
+Escrevo consultas SQL otimizadas, utilizo joins, subconsultas e funções agregadas para extrair informações de forma eficiente. Também tenho familiaridade com transações e controle de concorrência para garantir integridade dos dados em aplicações web.
+
+
+🎨 TypeScript & JavaScript 
+
+Embora minha especialidade seja back-end, possuo conhecimento em frameworks frontend que me permitem compreender o ciclo completo de desenvolvimento. Tenho boas noções com JavaScript, TypeScript HTML5 e CSS3. 
+Além de experiência prática com biblioteca como Angular que me possibilita colaborar com times frontend, entender requisitos de interface e até mesmo construir protótipos funcionais quando necessário.
